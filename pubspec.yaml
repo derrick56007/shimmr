@@ -1,8 +1,7 @@
 name: shimmr
 description: Shimmer animations for flutter
 version: 0.0.1
-author: derrick56007@hotmail.com
-homepage:
+homepage: https://github.com/Derrick56007/shimmr
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
