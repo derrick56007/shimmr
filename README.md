@@ -1,5 +1,8 @@
 # shimmr
 
+[![pub package](https://img.shields.io/pub/v/shimmr.svg)](https://pub.dev/packages/shimmr)
+![License](https://img.shields.io/github/license/derrick56007/shimmr)
+
 A simple way to bring beautiful shimmer animations to flutter.
 
 Shimmer animations are commonly used in loading screens or as placeholder widgets. Shimmr is 
@@ -37,3 +40,5 @@ Wrap any widget with `Shimmr()` widget to apply animaton:
 ```
 
 ## License
+
+[MIT License](https://github.com/derrick56007/shimmr/blob/main/LICENSE).
